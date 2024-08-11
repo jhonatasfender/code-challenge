@@ -1,6 +1,6 @@
 // DON'T CHANGE THIS FILE
-import { Communities } from '../communities/communities';
-import { People } from '../people/people';
+import { Communities } from '../communities/api/communities';
+import { People } from '../people/api/people';
 
 const PEOPLE_DATA = [
   {
